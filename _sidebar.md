@@ -5,6 +5,7 @@
    - [懒人搜索](gzh_md/懒人搜索.md)
    - [杰克船长的AIGC](gzh_md/杰克船长的AIGC.md)
    - [老Y工作室](gzh_md/老Y工作室.md)
+   - [陶人超有料](gzh_md/陶人超有料.md)
 
 - BG
 

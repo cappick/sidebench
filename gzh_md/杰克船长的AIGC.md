@@ -1,14 +1,86 @@
 # 公众号-[杰克船长的AIGC]
 
-> 以下是公众号【杰克船长的AIGC】的历史文章合集（最新），当前累计共**62**篇文章，按发布时间倒序展示。
->- 最新发布时间：2024-08-18
+> 以下是公众号【杰克船长的AIGC】的历史文章合集（最新），当前累计共**76**篇文章，按发布时间倒序展示。
+>- 最新发布时间：2024-09-02
 >- 最早发布时间：2024-05-14
 >
 > 更多文章，欢迎添加船长微信：hougeaigc
 
 ## 文章列表
 
+### 2024-09
+
+[2024-09-02 20:00 - 白嫖的GLM-4-Flash接入Coze agent，享受智谱清言的普惠活动](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488681&idx=1&sn=e78584cfbbc241a2fb767b53af8cfd45&chksm=c1e04b09f697c21fa1fd5edc8c5aa4877b59ce9d2d43543cbf3873332673b13001f43ae0cc40#rd)
+- 作者摘要:    在Coze里，只要调用了工作流，工作流中的每个节点都会产出相对应的token值，而token值也是代表着费用。
+- AI 摘要: 总结文章主要内容：文章介绍了如何使用Coze插件商店中的ZP_AI_API插件免费接入智谱清言的GLM-4-Flash模型，以降低使用成本并提高效率。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d226BB1HGv0iax22oiadYNANUhY0DEvrzXrgRf91YAq7SIq17uu6Jib8SXxtx2bSibHAROpbSa6wvib7TKQ/0?wx_fmt=jpeg)
+
+[2024-09-01 20:51 - 【Agent教程】Coze图像流“画板”教学](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488663&idx=1&sn=e96ec450d7fad8d767176c003cd017d2&chksm=c1e04b37f697c221887634f23a8e9def3c567f04196bd45d642e10cdb61b54010289cdfc23ce#rd)
+- 作者摘要: 船长，在之前的文章有发过，每日海报和随缘拍；当时的工作流还是较为复杂的，但这次Coze的更新，直接将复杂的流程简化。
+- AI 摘要: 介绍Coze图像流“画板”功能的操作方法和应用技巧。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d23uXoF1xCFA0MHCoic5XlaIGgm7cGxRvkWFH02X6vEJOr9GlcVjO2qURUiaL2fRcCicrjZlbnDZJO05A/0?wx_fmt=jpeg)
+
 ### 2024-08
+
+[2024-08-31 18:05 - 【AI Agent 教程】使用Dify搭建智能体——入门教学](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488641&idx=1&sn=aa52516ef6349fd33af0f8948e6b6b56&chksm=c1e04b21f697c237b71cff72ac610ac22aeffb5e061697d571e311556a7cea82cf426041513d#rd)
+- 作者摘要: 大家好, 我是船长的团队的缪斯，专注于模型算法与AI agent 开发多年，我会和各位分享另一个智能体搭建平台—Dify的使用教学：用Dify搭建聊天助手
+- AI 摘要: 本文为Dify平台搭建智能体的入门教学，以中英互译聊天助手为例，详细介绍了创建和测试智能体的过程。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d21h4jAJslbRib3OXVgL2UOqG3My03diawmNOYOewHMDw24zLv2n4F73xJw7A3s6cTg6QG3sogCHbwcg/0?wx_fmt=jpeg)
+
+[2024-08-30 19:15 - 【零代码Agent教程】用Coze循环节点，批量制作抖音文案素材！](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488628&idx=1&sn=95d205b1d76e9ccb5bd20c62a5bc0846&chksm=c1e04bd4f697c2c27c83e6729af8ac3159311d3ca9d4a179268ee60f1500df8ec0fb305f4a36#rd)
+- 作者摘要:    在本周六（8/31）晚八点在Coze交流群直播讲解：“实战拆解Coze最新技术节点”
+- AI 摘要: 总结：利用Coze的循环节点功能，批量制作抖音文案素材的实操教程。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d21lia7ERibwSvk3F6hs70Op2X2jZrfCfc6U4t8icouiaKK99345Giaic0gUTWEakru1jssnD4yRtBrwia7wA/0?wx_fmt=jpeg)
+
+[2024-08-29 18:42 - 白嫖的GLM-4-Flash接入Dify agent，享受智谱清言的普惠活动](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488623&idx=1&sn=88828bd1a17763c5d0917ef8573dde06&chksm=c1e04bcff697c2d9c3ec8f95efcdb50c9a8f75761e88e19611f8069e669aebd0387b598aff6a#rd)
+- 作者摘要:    近日智谱AI正式推出免费的GLM-4-Flash模型，以及注册就可以使用免费的API秘钥。还不抓紧去薅一下羊毛？
+- AI 摘要: 总结：本文介绍了如何利用免费的GLM-4-Flash模型接入Dify agent，享受智谱清言的普惠活动。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d22ibJ4K5vPsMFHuorFZibxnp151plRllUxD7vaK7OcsMIJ9N8tdgztlkI5EBsRRRUJwfTJwCbicwuROQ/0?wx_fmt=jpeg)
+
+[2024-08-27 20:14 - 零代码搭建"驾照模拟考试"场景 coze保姆级教学 [AI agent 教程]](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488563&idx=1&sn=2ae3f1a8e5f691390a276ca3eb00aa77&chksm=c1e04b93f697c2851f5598f623def678034314b4e21198f8965376d268b11dba7965fe4e451c#rd)
+- 作者摘要: 驾照模拟考试和题目练习互动的场景，分为下面三个难点：1.需要解决出题场景，让模型出题；2.需要解决如何增加用户体验感，比如：点击选项进行答题；3.需要判断用户回答是否正确，以及题目讲解与分析:
+- AI 摘要: 总结：本文详细介绍了如何使用coze平台搭建“驾照模拟考试”场景，包括工作流配置、节点配置、卡片配置以及BOT配置等步骤。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d20iag8mrHibot5ib0Y9FkbeyoerEHUJwWUvgng6WYYB2FEPp8JAFYfn6TT7Miao1n9PMGE74ibBFOsNmibg/0?wx_fmt=jpeg)
+
+[2024-08-26 20:57 - coze更新的"问答节点"让在线考试场景变得更简单 [AI agent教程]](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488527&idx=1&sn=e774e76a766014c95fc37d4463cf43c6&chksm=c1e04baff697c2b998b7dcefd9114efccb0e2503797b2b48e18070ddaf1e6e3dfdf48ebeef6d#rd)
+- 作者摘要:    问答节点是一个可以通过在工作流运行时向用户提出问题；并等待用户回答后继续运行工作流的一种工具
+- AI 摘要: coze更新的"问答节点"功能简化了在线考试场景，并提供了多种使用方法。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d23RMLp6AZMdSxaCVt4bkicmcuBoFzL4Dmt8V7t5pHljchLCY8vCtia4DfPC2LXW0OSibKicbzfMaRibI6w/0?wx_fmt=jpeg)
+
+[2024-08-25 21:47 - 控制Bot优化输出二，继续昨天的coze智能体教程技巧](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488507&idx=1&sn=8c465b71421bd4b3d6d8d9b7b58158c0&chksm=c1e04c5bf697c54defb1c4cd27122140ec71be61d138211b7728c04415421028b45ce5ec0692#rd)
+- 作者摘要: 通过使用工作流模式和结束节点的方式，控制BOT的输出，那也只是保证了BOT输出的完整性。
+- AI 摘要: 继续学习Coze智能体教程，掌握控制Bot输出结果的两种方法。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d20drJ29iaJsSyFdA6X7Z3p4Rgic8d7VOHtNiauOvXy4GZf6Z1XBE9PWyGQWUVKcg7ibZVyZTVBTyy8CoA/0?wx_fmt=jpeg)
+
+[2024-08-24 17:11 - "工作流运行故障" ？来看这篇扣子Coze智能体技巧分享！](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488476&idx=1&sn=60dfc7fc46e46cc51cc81bf75d83d527&chksm=c1e04c7cf697c56abe7e15b3bc6853d100c08870b6ecb4cfbb429c28f04a2588585ec3390b5e#rd)
+- 作者摘要:     工作流程运行顺畅，并成功生成结果. 而这些结果并非直接展示在预览界面，而是先传递bot，那bot会对接收到的结果进行汇总和精炼，然后再将其展示在预览界面中...
+- AI 摘要: 解析并优化Coze智能体工作流运行故障及输出结果差强人意的问题，提供两种解决方案。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d23zWqgIPzhchqo51icHmETsNu79icUElxbibQCI6qYjx9iaF19RmFyb1FW5JGCLaDyHnaRaoX56iarc2uQ/0?wx_fmt=jpeg)
+
+[2024-08-23 12:03 - 开启新航线-Dify搭建AI 智能体](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488458&idx=1&sn=69e155b6486283589f05855b661230c4&chksm=c1e04c6af697c57cd8eda9f1b72364a5854ed59a5ac1e3aee04aeead706600c4e3ab287ce1f1#rd)
+- 作者摘要:      大家好, 我是船长的团队的缪斯，专注于模型算法与AI agent 开发多年，今天和各位分享另一个智能体搭建平台—Dify的入门文章，同时在本周日（8/25）晚20:00，给大家带来一场Dify技术直播分享
+- AI 摘要: Dify是一个开源平台，专注于简化和加速构建大语言模型（LLM）应用的过程，提供直观的界面和丰富的功能，适用于从初创企业到大型互联网公司的不同需求。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d22XRLj1asP4beTxgouHdlUhtVqZ2psubM2sRbsAOuicGgQASVJvhV0FznjhNZ1TOEF16ibibaMPHjLWQ/0?wx_fmt=jpeg)
+
+[2024-08-22 22:03 - 船长为什么这么看好RPA？](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488388&idx=1&sn=be3c4e07917bb4175b11f92d23554440&chksm=c1e04c24f697c53291cfcebd3be56714574b0bbedec189a0982a5ebb5a615e4531d468173e64#rd)
+- 作者摘要: “点击上方卡片关注 / 不要错过精彩文章”📢 船长的文章主要是实操攻略，至今已经更新coze方面60余篇文章
+- AI 摘要: 船长深入解析RPA技术的广泛应用和前景，强调其在提高效率和自动化流程中的价值。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d23icDFibbcoibvq95IE9XOzibcsah2Axhc2xyLSnlao4P9Vy9Uicw14N63iaETTLgCYlpY30aQMjV4DP3Rg/0?wx_fmt=jpeg)
+
+[2024-08-21 21:44 - 黑神话-悟空-天命人之扣子Coze智能体找寻自己的天命人详细拆解](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488380&idx=1&sn=eccc50e97df80b9de91ae58850b766c7&chksm=c1e04cdcf697c5ca7fcc5e3b04a48145af6192422232e0aecc773b94f90fed74d4c22476919a#rd)
+- 作者摘要: 为响应国内第一款3A游戏——黑神化-悟空游戏的热度，船长团队通过Coze平台上架一款BOT 《天命人》
+- AI 摘要: 文章详细拆解了如何利用Coze平台创建黑神话-悟空游戏中的AI智能体“天命人”。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d20hZfBPPPf7LTuib5GSnbRQhzEqCb7SiaGwpNibeOcRbvBpYs0MibbPZ1y8Y4Ho0nrfzV63BywOYNDTtQ/0?wx_fmt=jpeg)
+
+[2024-08-20 20:54 - GPT4o语音交互功能扣子Coze智能体也能实现！](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488344&idx=1&sn=1108672dbd254fb9947e249cbe2c28bf&chksm=c1e04cf8f697c5ee2d5022afdd281de37b9be9c502b704b242db1e3bdd4bad4a70f3fa23479f#rd)
+- 作者摘要:       在前一段时间，国外openai公司发布Chatgpt4O版本，不仅支持语音交互，还支持打断功能。豆包也在上个星期发布同样的语音打断功能，但并未有明确公告上线Coze，
+- AI 摘要: 文章主要介绍了如何使用Coze智能体搭建平台实现与豆包大模型的语音交互功能。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d21pmq3c0rZylyNOa8NnChITSXYmfI5TibDvZ1YwEMfmOql3iaCoGYlNGQLeTYZgFsdIMDbT2VhAH74w/0?wx_fmt=jpeg)
+
+[2024-08-19 12:09 - 直播分享通知: 8月20日 扣子Coze智能体之 多Agent 工作流、图像流实战拆解](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488319&idx=1&sn=d780e51cc246312c2450150432d463ea&chksm=c1e04c9ff697c5890f12ea36e450e391660c2e961a4587b68f880ac79a7c9d61578c6cf5cad8#rd)
+- 作者摘要: Coze 多Agent 工作流 与 图像流 技术分享 🚀🌐拆解“英文阅读辅助学习伴侣”多Agent 工作流的实战应用 📘🤖
+- AI 摘要: 8月20日直播分享将拆解Coze智能体的多Agent工作流和图像流实战应用。
+![封面图](https://mmbiz.qlogo.cn/mmbiz_jpg/sqr7oTe0d21aebrO3Fqa0eb7BHTPdrwKCfiaw6khIn3GXe9eXRgqfaHQE7MVs1ctAXML5V4kCYWJkfADZqmRF9A/0?wx_fmt=jpeg)
 
 [2024-08-18 12:36 - 扣子coze智能体一键迁移到专业版的教程来啦🥟](http://mp.weixin.qq.com/s?__biz=MzkyMzY5OTkxOQ==&mid=2247488280&idx=1&sn=e75ad9bd9d0791b5009045c96641d464&chksm=c1e04cb8f697c5ae8134575d5ad0434470597d03625bf0d38a75c88a8d4ef761077607da2b63#rd)
 - 作者摘要:      在复制前，需要做一些准备：首先最好要准备两个浏览器，一个登入专业版，另一个登入基础版；后续操作会涉及到跳转问题，这样比较方便其他具体内容在文章最后。
